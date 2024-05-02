@@ -71,8 +71,8 @@ body {
 	width: 100%;
 
 }
-#about-me {
-	flex: 2
+.about-me {
+	flex: 2;
 }
 .about-me__title {
 	margin-top: 1em;
@@ -85,7 +85,7 @@ body {
 	font-style: italic;
 	width: 60%;
 }
-#about-me p {
+.about-me p {
 	width: 80%;
 	font-size: 14px;
 }
